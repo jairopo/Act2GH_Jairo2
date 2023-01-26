@@ -27,7 +27,6 @@ public static void main(String[] args) {
       System.out.print("\nEl número " + i + " se repite " + repeticiones + " veces.");
       repeticiones = 0;
     }
-    
   }
   
 }
